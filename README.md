@@ -1,2 +1,2 @@
 # Miscellaneous Scripts
-A repository containing miscellaneous scripts I have made.
+A repository containing miscellaneous scripts I use.
